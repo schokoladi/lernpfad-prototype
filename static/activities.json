@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "userId": 3,
+    "type": "comment",
+    "userName": "Vreni Verkäufer",
+    "date": "2018-05-01T13:22:22+02:00",
+    "comment": "Aufgabe 5 finde ich nicht verständlich",
+    "path": [{
+      "pathId": 3,
+      "pathTitle": "LernPfad Wirtschaftskreislauf"
+    }]
+  },
+  {
+    "id": 3,
+    "userId": 5,
+    "type": "file",
+    "userName": "Klaus Käufer",
+    "file": "Zusammenfassung_Aufgabe_3.pdf",
+    "comment": "hier meine Lösung zu Aufgabe 3",
+    "path": [{
+      "pathId": 3,
+      "pathTitle": "LernPfad Wirtschaftskreislauf"
+    }]
+  },
+  {
+    "id": 4,
+    "userId": 7,
+    "type": "comment",
+    "userName": "Corinne Coder",
+    "date": "2018-04-28T13:22:22+02:00",
+    "comment": "Was ist der Unterschied zwischen Objekten und Arrays?",
+    "path": [{
+      "pathId": 4,
+      "pathTitle": "LernPfad Programmieren I"
+    }]
+  },
+  {
+    "id": 5,
+    "userId": 12,
+    "type": "comment",
+    "userName": "Hans Hacker",
+    "date": "2018-04-26T10:22:22+02:00",
+    "comment": "Weshalb werde ich Opfer von DDOS?",
+    "path": [{
+      "pathId": 4,
+      "pathTitle": "LernPfad Programmieren I"
+    }]
+  },
+  {
+    "id": 7,
+    "userId": 3,
+    "type": "comment",
+    "userName": "Hans Hacker",
+    "date": "2018-04-22T13:22:22+02:00",
+    "comment": "Danke für Ihre Rückmeldung zu Aufgabe 2!",
+    "path": [{
+      "pathId": 5,
+      "pathTitle": "LernPfad Programmieren II"
+    }]
+  }
+]
